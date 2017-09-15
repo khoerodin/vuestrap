@@ -5,7 +5,7 @@
 
         <b-nav-toggle target="nav_collapse"></b-nav-toggle>
 
-        <b-navbar-brand href="#">NavBar</b-navbar-brand>
+        <b-navbar-brand href="#">Vuestrap</b-navbar-brand>
 
         <b-collapse is-nav id="nav_collapse">
 
