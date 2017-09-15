@@ -32,7 +32,7 @@
                   Check me out
                 </b-form-checkbox>
               </b-form-group>
-              <b-button type="submit" variant="primary">Submit</b-button>
+              <b-button type="submit" variant="success">Submit</b-button>
               <b-button type="reset" variant="secondary">Reset</b-button>
             </b-form>
 
