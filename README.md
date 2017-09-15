@@ -1,6 +1,6 @@
-# myvue
+# Vuestrap
 
-> A simple template with Vuejs and Buefy
+> A simple integration Vuejs with Webpack and Bootstrap 4
 
 ## Build Setup
 
@@ -27,4 +27,7 @@ npm run e2e
 npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For detailed explanation on how things work, checkout the [webpack guide](http://vuejs-templates.github.io/webpack/), [vue-loader docs](http://vuejs.github.io/vue-loader) and [bootstrap-vue docs](https://bootstrap-vue.js.org/).
+
+# License
+Released under The MIT [License](./LICENSE). Copyright (c) 2017-present, [Khoerodin](https://khoerodin.id/)
